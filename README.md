@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 - 🔭 I’m currently working on: [Process Street](https://www.process.st/), making recurring work fun 🎉, fast 💨, and faultless 🔐 for teams everywhere.
 - 🛠 Current tools: TypeScript, React, GraphQl, Next, XState, Ruby, Rails, MySQL, React Testing Library, Jest
